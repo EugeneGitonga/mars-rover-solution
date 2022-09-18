@@ -1,0 +1,8 @@
+version: '3'  # Allows compose versions specifications between (3.0-3.8)
+services:
+  app:
+    restart: always
+    build: .
+    volumes:
+      - .:/app
+    command: tail /dev/null 2>&1
