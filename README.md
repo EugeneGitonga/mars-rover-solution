@@ -51,8 +51,8 @@ The steps below have been well commented in the mars-rover-solution program whic
 * When prompted, please type file name i.e filename sampleIn.txt, sampleIn2.txt etc
 
 ```sh
-git clone https://github.com/EugeneGitonga/Mars-rover-solution.git
-cd Mars-rover-solution/mars rover main/Solution
+git clone https://github.com/EugeneGitonga/mars-rover-solution.git
+cd mars-rover-solution/mars_rover_main/solution
 python3 mars_rover_solution.py
 
 ```
